@@ -1,0 +1,3 @@
+D:/vs2017/TexturePi/CMakeFiles/project.dir
+D:/vs2017/TexturePi/CMakeFiles/ALL_BUILD.dir
+D:/vs2017/TexturePi/CMakeFiles/ZERO_CHECK.dir
